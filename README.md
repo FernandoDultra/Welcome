@@ -20,7 +20,12 @@
 
 ## Criando Links
 [Repositório de Emojis ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
+---
 [Site de emojis para títulos](https://emojipedia.org)
+---
+## Emoji 
+
+Olá 🇧🇷 segue o meu 🧠
 
 ## Upload de Imagens
 ![eu e os filhos mo sobrevivência com inteligência artificial](https://github.com/FernandoDultra/Welcome/assets/101875551/30c032bf-6d8f-4937-9420-2d8ba133b023)
