@@ -57,5 +57,8 @@ Você deve Usar 3 Crases com o código no parágrafo abaixo
 > Usando o sinal de maior que.
 
 
+## Guia em PDF Do @gustavoguanabara
+
+[guia-markdown.pdf](https://github.com/user-attachments/files/15900780/guia-markdown.pdf)
 
 
